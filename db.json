@@ -1,0 +1,214 @@
+{
+  "movies": [
+    {
+      "id": "17883fbb-9d57-4066-869c-4ed900fe36bb",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6FF2B403436E6558C08FB44B40AE334A9172FA293A8325940E8E7FF7F696E4D3/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509E4D9F0BF98A9DC4CDD38954380782F6AB2664E503CC7652A37D18D06666BF/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Mickey entertains a new generation of preschoolers for the first time by inviting them to join him and his favorite friends (Goofy, Donald, Minnie, Daisy & Pluto) for a date at the Clubhouse. Using early math learning and problem solving skills, he leads kids on an interactive adventure of learning and fun.",
+      "subTitle": "2006 - 2013 • 5 Seasons • Kids, Animation",
+      "title": "Mickey Mouse Clubhouse",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FF3FCD567F0263430DFC33B9489CE2799AE33B50AD553DE65F03B3EA2E19828/scale?width=1440&aspectRatio=1.78",
+      "type": "recommended",
+      "featured": {
+        "sliderImg": "/images/slider-mickey.jpg",
+        "sliderLogoImg": "/images/slider-mickey-logo.png",
+        "title": "Mickey Mouse Clubhouse"
+      }
+    },
+    {
+      "id": "93df39ce-8421-4470-b463-c584697b1a36",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/48D55965CA7F51FA4667CCA80A620A05DAC838CE4C809AE36ECDA811B25723E5/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D4099EE334234C611506F46FA539FC181912CB87EE90524C491C9A1E6DBE1EA2/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "This funny and honest look at modern family life celebrates how imaginative play helps shape healthy children. Australian blue heeler puppy Bluey has a boundless imagination and loves to turn daily life into playful adventures. She and little sister Bingo throw themselves into exploring their world, using gameplay to conquer their fears and try out adult roles. And they like nothing more than pulling their parents – particularly Dad – into their fun and games. Mum Chilli’s gone back to work and Dad Bandit juggles childcare with working from home. But though he might think he’s in charge, the girls are definitely calling the shots when it comes to playtime – and pretty much everything else!",
+      "subTitle": "2018 • 1 Season • Kids, Animation",
+      "title": "Bluey",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/89532A606A441EF706BBB6D4632FAD5A2B23AB123C610537058B4E8C5CA615C4/scale?width=1440&aspectRatio=1.78",
+      "type": "recommended",
+      "featured": null
+    },
+    {
+      "id": "58752b4e-f683-49e7-ab41-275085e94dbf",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/456A711C19899C881600F6247705E5253EB18C2471D75E5281E1FF6ACB6D2FBA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/341AE85B6C1423B9042B5F2E786645EE551B9D546C3D263B220A4727617FD2B8/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "Marvel Studios’ “The Falcon and The Winter Soldier” stars Anthony Mackie as Sam Wilson aka The Falcon, and Sebastian Stan as Bucky Barnes aka The Winter Soldier. The pair, who came together in the final moments of “Avengers: Endgame,” team up on a global adventure that tests their abilities—and their patience. Directed by Kari Skogland with Malcolm Spellman serving as head writer, the six-episode series also stars Daniel Brühl as Zemo, Emily VanCamp as Sharon Carter, and Wyatt Russell as John Walker.\n\nThough it is fictional and set in the comic-book world, the series contains violent scenes that may be viewed as triggering or unsettling to some viewers, particularly in light of recent real-world tragic events.",
+      "subTitle": "2021 • 1 Season • Science Fiction, Action-Adventure, Buddy",
+      "title": "The Falcon and The Winter Soldier",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A67A42FB16607DAE7E22266D3F00181965178ED1884047C2D982EE7D89D3554/scale?width=1440&aspectRatio=1.78",
+      "type": "recommended",
+      "featured": {
+        "sliderImg": "/images/slider-cap.jpg",
+        "sliderLogoImg": "/images/slider-cap-logo.png",
+        "title": "The Falcon and The Winter Soldier"
+      }
+    },
+    {
+      "id": "fd230fa5-0bbc-4245-8692-e352fd4ba305",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A4A0864D7358C8CD7594C1B5E72F6B4C98ADC865052800258E3DA4E9C7C90C1C/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/05A564FBF15F663B857E4018CB779AA947A7042D41370117EE121656FC4EDE4A/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "In Disney and Pixar’s Onward, elf brothers, Ian (voice of Tom Holland) and Barley (voice of Chris Pratt), get to spend a day with their late dad and go on a quest aboard Barley’s epic van Guinevere. When their mom Laurel (voice of Julia Louis-Dreyfus) realizes her sons are gone, she teams up with The Manticore (voice of Octavia Spencer) to find them.",
+      "subTitle": "2020 • 1h 42m • Family, Comedy, Fantasy, Animation, Action-Adventure",
+      "title": "Onward",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7205EB7F2E890A597F67C91A7D84D4DC866945C36757EBC6286EAFBF5BF8D82B/scale?width=1440&aspectRatio=1.78",
+      "type": "recommended",
+      "featured": {
+        "sliderImg": "/images/slider-onward.jpg",
+        "sliderLogoImg": "/images/slider-onward-logo.png",
+        "title": "Onward"
+      }
+    },
+    {
+      "id": "3dd899b2-23e7-43e5-8430-b7c81d9759e3",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/10CBECCCDFAF0E6EF39D772B9A9307A80F12D9400A18A662D79C4BD7BF15A7CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D0FF9109565D9C722BF4C395ABA20542504C9FB9A76988820367B27363F0FBFE/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Walt Disney Animation Studios’ \"Raya and the Last Dragon\" travels to the fantasy world of Kumandra, where humans and dragons lived together in harmony long ago. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people. However, along her journey, she’ll learn that it’ll take more than a dragon to save the world—it’s going to take trust and teamwork as well. \"Raya and the Last Dragon\" features the voices of Kelly Marie Tran as Raya, a warrior whose wit is as sharp as her blade, and Awkwafina as the magical, mythical, self-deprecating dragon named Sisu. Characters also include a street-savvy 10-year-old entrepreneur named Boun, the formidable giant Tong and a thieving toddler Noi with her band of Ongis. Some flashing lights sequences or patterns may affect photosensitive viewers.",
+      "subTitle": "2021 • 1h 53m • Family, Fantasy, Animation, Action-Adventure",
+      "title": "Raya and the Last Dragon",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/74098D7C528464FE3BFA92C44085FAFB63D486C8E4DD4824D3081DEE79EA3B4A/scale?width=1440&aspectRatio=1.78",
+      "type": "new",
+      "featured": null
+    },
+    {
+      "id": "3240660e-2b61-48e1-97ae-44ca9f919154",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EF518CD77726655BB0B89A5A55152F4D91D4AE9DF27FC8C39F88CE77A3EEF8C3/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5F49C4453DE0EC22603EF907ABB7F484742D63CB3349D0976AAED436FDA4B83B/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Griffin Campbell and his family move to the old Tremont hotel in the town of Sulphur Springs. The entire town believes that the hotel is haunted by the ghost of a girl named Savannah, who disappeared over 30 years ago. When Griffin and his new best friend Harper try to solve the mystery of what happened to her, they find a portal that lets them travel back in time, where they learn that the secret to solving the mystery is meeting Griffin’s own father!",
+      "subTitle": "2021 • 1 Season • Mystery, Family, Fantasy",
+      "title": "Secrets of Sulphur Springs",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B350264F90833C24CFB94C7BE6D81BD00F6D9724C0C9927B41F72AF3C3444404/scale?width=1440&aspectRatio=1.78",
+      "type": "new",
+      "featured": null
+    },
+    {
+      "id": "3a55c174-2d23-4221-9257-f293a99089d0",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87BA75892579B5884B9363D351DE67F38BE16EBF5B701996BDE64C20E1E932D7/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/64ACE54F175E460AD1246CBC1F5308BD020E8338DF59DFBB397E7FFA5FAAB89F/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Kick Buttowski is an extraordinary kid living in the world's most ordinary town. With a pint-size body and ginormous guts, he's determined to become the world's greatest daredevil. When life throws him an obstacle, his only choice is to jump it!",
+      "subTitle": "2010 - 2011 • 2 Seasons • Animation, Action-Adventure",
+      "title": "Kick Buttowski: Suburban Daredevil",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA6C7B17348348604D7F3C82B181A752F34B979F4E7CFE07B4B56956824C04EF/scale?width=1440&aspectRatio=1.78",
+      "type": "new",
+      "featured": null
+    },
+    {
+      "id": "e68ea647-298b-48d5-a041-929f0f41f7dd",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9CAE9DD06F5F9A8B28A92B096681C6843DBAF217FEF806E0EB054BC4E2E7A459/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8FAC3C60B41C97CEA43F1F2E054A903110717304A5613731FEF34E0A6302A0D9/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "Secrets of the Whales plunges viewers deep within the epicenter of whale culture to experience the extraordinary communication skills and intricate social structures of five different whale species: orcas, humpbacks, belugas, narwhals and sperm whales. Filmed over three years in 24 locations, throughout this epic journey, we learn that whales are far more complex and more like us than ever imagined.",
+      "subTitle": "2021 • 1 Season • Docuseries, Animals & Nature",
+      "title": "Secrets of the Whales",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/96758C509BA7A2B3FD6CBB8D38B938F004F1CEEB9B3EDF3D47AD023F23452DBA/scale?width=1440&aspectRatio=1.78",
+      "type": "new",
+      "featured": null
+    },
+    {
+      "id": "e40284ae-faa6-494f-9e80-1b66cecb2fe3",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/272BD8E0A50BEB5A0E1543D6F94C2A780FCAD83E7812F07BF2127641F7F3A6AA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/19C2F50704E92BB7F5BD78779A686F91976B4677295038A7F1BA928373A8E164/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "After getting ousted from the NCAA, a men’s basketball coach is given a chance for redemption with a coaching position at an elite private high school. He soon learns that the teenage players require empathy and vulnerability — foreign concepts for the stoic Coach Korn (John Stamos). By learning how to connect with his players, Marvyn starts to grow into the person he’s always hoped to be. The players learn to take themselves more seriously, finding their footing both on and oﬀ the court.",
+      "subTitle": "2021 • 1 Season • Sports, Drama, Comedy",
+      "title": "Big Shot",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/045E6B34D12B93A9283297F64D4F329A30B7647A63763E320F6832B22A4E66FD/scale?width=1440&aspectRatio=1.78",
+      "type": "original",
+      "featured": null
+    },
+    {
+      "id": "eead6149-e843-48da-b9f4-7cb12b73429a",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FEDC67CA9AAC4835C0E8312D92D3247739ED13158FA89A2530B0782CC9EC24CF/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4BCFB7A813E9037EEAB86851852F83C94C5CD3105F7C6E51DBE2E43CD9945C37/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "In present day Minnesota, the Mighty Ducks have evolved from scrappy underdogs to an ultra-competitive, powerhouse youth hockey team. After 12-year-old Evan Morrow is unceremoniously cut from the Ducks, he and his mom, Alex, set out to build their own team of misfits to challenge the cutthroat, win-at-all-costs culture of youth sports today. With the help of Gordon Bombay, they rediscover the joys of playing just for love of the game.",
+      "subTitle": "2021 • 1 Season • Sports, Drama, Comedy",
+      "title": "The Mighty Ducks: Game Changers",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06A252056BA40031DE59D12E2895D93FECB02ED4D58A5A9CF27F22BE6AD82BFB/scale?width=1440&aspectRatio=1.78",
+      "type": "original",
+      "featured": null
+    },
+    {
+      "id": "0f2b581a-b445-44ef-b76e-7cb264d599cb",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56EEBB17CC25C9FE16E334C34EF96BF7D91EC9BA3B438F88FB24E1C2AE785E03/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E486A02FA7B60669E77958D4FAE567AA5C9C57344006E1D1ADFC080719545166/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. Pixar’s \"Soul\" introduces Joe, who lands the gig of his life at the best jazz club in town. But one misstep lands Joe in a fantastical place: The Great Before. There, he teams up with soul 22 (Tina Fey), and together they find the answers to some of life’s biggest questions.",
+      "subTitle": "2020 • 1h 49m • Family, Comedy, Fantasy, Animation, Music",
+      "title": "Soul",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E837DDE901CD036DD87A00F2D63E2F2458FAA798E62BE91F973AECCEA313A67E/scale?width=1440&aspectRatio=1.78",
+      "type": "original",
+      "featured": {
+        "sliderImg": "/images/slider-soul.jpg",
+        "sliderLogoImg": "/images/slider-soul-logo.png",
+        "title": "Soul"
+      }
+    },
+    {
+      "id": "e4d2d6a4-1acf-4fef-9143-e82108d8d9fd",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ECBC60DB834D4837BB264F84393FB6BD401EC7C6E9FE650AE55A8BECD662829F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/33A2485E3B5088312988490EB4D0D061DBB8FF22895E6919CA37805336A33443/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. Some flashing lights sequences or patterns may affect photosensitive viewers.",
+      "subTitle": "2019 - 2020 • 2 Seasons • Science Fiction, Action-Adventure",
+      "title": "The Mandalorian",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F9EFE28834AE32E12DD5CD0DF4DC9D6DDCCC2DD981C1BF5A4804818CC273EFE4/scale?width=1440&aspectRatio=1.78",
+      "type": "original",
+      "featured": null
+    },
+    {
+      "id": "b7e2e6fe-f5c6-4a2c-909a-90ae2c6c3e56",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F42996933208255347A271AFE3A4468E9E18334DBE29C53E135A201B88826D94/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5BB1FBFA805ACA487CA62FFB3617BE172535636042E25D21D7E274F6E6F580B6/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Winner of the 2019 Emmy® Award for Outstanding Animated Program, THE SIMPSONS continues to strike a chord with viewers for irreverently poking fun at anything and everything.  With its subversive humor and delightful wit, the series has made an indelible imprint on American pop culture, and its family members – Homer (Dan Castellaneta), Marge (Julie Kavner), Bart (Nancy Cartwright), Lisa (Yeardley Smith) and Maggie – are television icons.  Already the longest-running scripted series in television history, the Emmy® Award-, Annie Award- and Peabody Award-winning animated comedy has surpassed Gunsmoke’s record of the most episodes for a scripted primetime television series. THE SIMPSONS is a Gracie Films Production in association with 20th Century Fox Television. The series was created by Matt Groening and developed by James L. Brooks, Matt Groening and Sam Simon.  James L. Brooks and Matt Groening are executive producers. Al Jean and Matt Selman also serve as executive producers and the series’ showrunners.",
+      "subTitle": "1989 - 2019 • 31 Seasons • Comedy, Animation",
+      "title": "The Simpsons",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8AD572683363C62E597E10E204D6895383BE1023DD7AFD2C2FBE01E230979335/scale?width=1440&aspectRatio=1.78",
+      "type": "trending",
+      "featured": null
+    },
+    {
+      "id": "d65cb6dd-5b99-4088-b4c0-b53f28c8cf37",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AAC4808815AE5721A6AAB372DD14B8CE2E7E9EFF3A27942EF2B6B45EBF4E65CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/501783804F435A386DBC4736F529A8EF664B1817CCB0B552E52D825B85B0A97B/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Moana sets sail on a daring mission to save her people. Along the way, she meets the mighty demigod Maui–together they cross the ocean on a fun-filled, action-packed voyage from Walt Disney Animation Studios.",
+      "subTitle": "2016 • 1h 47m • Family, Fantasy, Animation, Action-Adventure, Musical",
+      "title": "Moana",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9562874BAB22B22A698368819B9EBF30FEB0291543552EB2416A5A61A73F63F4/scale?width=1440&aspectRatio=1.78",
+      "type": "trending",
+      "featured": null
+    },
+    {
+      "id": "9d27fc28-c24f-4be1-b461-c2548cb99352",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0D20E549227FFDC3B1207DBA9F5F94C2EB53783E7CAE0BF8E37ECEE899F03087/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0C1B5ABCCA0031878CC67872E9EC10143A88AAF2C81F5283F1CBBBAE572CBBD/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+      "description": "Marvel Studios presents “WandaVision,” a blend of classic television and the Marvel Cinematic Universe in which Wanda Maximoff (Elizabeth Olsen) and Vision (Paul Bettany)—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems. The new series is directed by Matt Shakman; Jac Schaeffer is head writer.",
+      "subTitle": "2021 • 1 Season • Romance, Mystery, Drama, Science Fiction",
+      "title": "WandaVision",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AC446487B02CDADEACEFEC36EAA9F618DD0895058B0F84E954276C0F7E203A7D/scale?width=1440&aspectRatio=1.78",
+      "type": "trending",
+      "featured": null
+    },
+    {
+      "id": "8f9e05eb-031e-488d-8491-124cad6e90c5",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3515BC246E33B18776DBDEF964F4496011AC7F82865B90CDC02470A3580C804C/scale?width=1440&aspectRatio=1.78&format=jpeg",
+      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0FCB0352D064EA31297DC2C9E630F9C8A2CAF6C3C7F21FA587D8BEE91635756A/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "description": "Pixar Animation Studios proudly presents the adventure of a lifetime! When Woody, Buzz and the gang join Bonnie on a road trip with her new craft-project-turned-toy, Forky, the innocent little spork’s hilarious antics launch Woody on a wild quest filled with unexpected new characters—and one long-lost friend!",
+      "subTitle": "2019 • 1h 40m • Family, Comedy, Animation, Action-Adventure",
+      "title": "Toy Story 4",
+      "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1C8DBEEA1C246905032657462BEF340F9B6D440F11C508443D7C094FF64F2A7F/scale?width=1440&aspectRatio=1.78",
+      "type": "trending",
+      "featured": null
+    }
+  ],
+  "types": [
+    {
+      "title": "New to Disney+",
+      "type": "new"
+    },
+    {
+      "title": "Originals",
+      "type": "original"
+    },
+    {
+      "title": "Recommeded For You",
+      "type": "recommended"
+    },
+    {
+      "title": "Trending",
+      "type": "trending"
+    }
+  ]
+}
